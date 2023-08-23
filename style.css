@@ -1,0 +1,338 @@
+.sub nav ul li
+{
+    display: inline;
+    color: #000;
+    font-size: 15px;
+    margin-right: 15px;
+    
+}
+
+.sub nav ul li a
+{
+    text-decoration: none;
+    color: #000;
+}
+.sub nav ul li:hover{
+    opacity: .5;
+    transition: .7s;
+}
+
+
+.bus nav ul li
+{
+    display: inline;
+    color: #000;
+    font-size: 15px;
+    margin-right: 15px;
+    
+}
+
+.bus nav ul li a
+{
+    text-decoration: none;
+    color: #000;
+}
+.bus nav ul li:hover{
+    opacity: .5;
+    transition: .7s;
+}
+.afe
+{
+    text-decoration: underline;
+}
+
+.imeg
+{
+    background-image: url(img/image-mega-6-compressor_630x.jpg);
+    background-size: cover;
+    height: 450px;
+}
+
+.two .der
+{
+    padding-top: 100px;
+}
+.two h1
+{
+    font-size: 50px;
+}
+.big1 img
+{
+    width: 100%;
+}
+
+.big2 img
+{
+    width: 100%;
+}
+.txt h1
+{
+    text-align: center;
+    
+}
+.sun1 img
+{
+    width: 100%;
+}
+.sun2 img
+{
+    width: 100%;
+}
+.sun3 img
+{
+    width: 100%;
+}
+.sun4 img
+{
+    width: 100%;
+}
+
+.ang .fa
+{
+    padding: 5px 10px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 10px 0px;
+}
+
+
+.part3
+{
+    background-image: url(img/beach-1853939_1280.jpg);
+    background-size: cover;
+    height: 450px;
+}
+
+.hjk
+{
+    background: transparent;
+}
+
+.part4
+{
+    background-image: url(img/people-2594683_1280.jpg);
+    background-size: cover;
+    height: 450px;
+}
+
+.pl .fa
+{
+    font-size: 2em;
+}
+
+.qw .fa
+{
+    font-size: 2em;
+}
+
+.tr .fa
+{
+    font-size: 2em;
+}
+.ic .fa
+{
+    font-size: 2em;
+}
+
+.gel1 img
+{
+    width: 100%;
+    height: 250px;
+}
+
+.gel2 img
+{
+    width: 100%;
+    height: 250px;
+}
+
+.gel3 img
+{
+    width: 100%;
+    height: 250px;
+}
+
+.pad
+{
+    text-align: center;
+    border: 2px solid green;
+    padding: 10px;
+}
+
+
+.list nav ul
+{
+    text-align: center;
+    margin: 30px 80px;
+   
+}
+
+.list nav ul li
+{
+    display: inline;
+    color: #000;
+    margin-right: 20px;
+    font-weight: 700;
+}
+
+.list nav ul li a
+{
+    text-decoration: none;
+    color: #000;
+}
+.yh, .list nav ul li:hover
+{
+    opacity: .7;
+    transition: .3s;
+}
+
+.moon1 img
+{
+    width: 100%;
+}
+
+/**/
+
+.kun nav ul
+{
+    list-style: none;
+    padding-left: 0;
+}
+.kun nav ul li
+{
+    color: #000;
+    margin-top: 10px;
+}
+.kun nav ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.kun nav ul li:hover{
+    opacity: .8;
+    transition: .3s;
+}
+
+/**/
+
+
+.kun1 nav ul
+{
+    list-style: none;
+    padding-left: 0;
+}
+.kun1 nav ul li
+{
+    color: #000;
+    margin-top: 10px;
+}
+.kun1 nav ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.kun1 nav ul li:hover{
+    opacity: .8;
+    transition: .3s;
+}
+
+/**/
+
+
+.kun2 nav ul
+{
+    list-style: none;
+    padding-left: 0;
+}
+.kun2 nav ul li
+{
+    color: #000;
+    margin-top: 10px;
+}
+.kun2 nav ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.kun2 nav ul li:hover{
+    opacity: .8;
+    transition: .3s;
+}
+
+.icen1 .fa
+{
+    padding: 8px 12px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    margin-right: 5px;
+}
+
+.icen1 .two
+{
+    background-color: #31B1DF;
+    padding: 8px 10px;
+}
+
+
+
+.icen1 .thr
+{
+    background-color: #E84D2F;
+    padding: 8px 8px;
+}
+
+.icen1 .fou
+{
+    background-color: #EC2327;
+    padding: 8px 10px;
+}
+
+.icen1 .fiv
+{
+    background-color: #3E739D;
+    padding: 8px 10px;
+}
+
+
+
+.kun3 nav ul
+{
+    list-style: none;
+    padding-left: 0;
+    
+}
+.kun3 nav ul li
+{
+    color: #000;
+    margin-top: 10px;
+}
+.kun3 nav ul li a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.kun3 nav ul li:hover{
+    opacity: .8;
+    transition: .3s;
+}
+
+.copy p
+{
+    font-size: 14px;
+    opacity: .8;
+    font-weight: 400;
+}
+
+.cre img
+{
+    width: 40px;
+    margin: 5px;
+}
+
+
+
+
+
+
